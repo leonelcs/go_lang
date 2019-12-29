@@ -36,4 +36,4 @@ func main() {
 	})
 
 	http.ListenAndServe(":8000", newMux)
-}c
+}
